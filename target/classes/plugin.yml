@@ -1,0 +1,12 @@
+main: x.Entt.LinkedInv.LI
+name: LinkedInv
+version: 1.0.0
+author: Enttbot
+description: A custom inv where players can share things
+
+commands:
+  LinkedInv:
+    description: Open the Server Share Inventory
+    usage: /<command>
+    alias:
+    - li
